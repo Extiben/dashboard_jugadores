@@ -1,0 +1,5 @@
+# Caché de datos y artefactos
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+data/.api_key_nba
